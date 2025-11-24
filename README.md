@@ -42,7 +42,7 @@ Actualmente sigo fortaleciendo mi stack con proyectos prácticos y buenas práct
 ---
 
 ## Contacto  
-- **LinkedIn:** https://www.linkedin.com/in/tu-usuario  
-- **Email:** tu-email@ejemplo.com  
+- **LinkedIn:** https://www.linkedin.com/in/javier-garcia-35361a286/ 
+- **Email:** javo.f.garcia@gmail.com  
 
 ---
