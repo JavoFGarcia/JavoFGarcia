@@ -5,9 +5,9 @@
 
 ## Sobre mí  
 Soy un desarrollador frontend en formación constante, enfocado en construir interfaces claras, funcionales y mantenibles. Disfruto trabajar en proyectos donde el diseño, la experiencia de usuario y la calidad del código se combinan para entregar soluciones reales.  
-Actualmente sigo fortaleciendo mi stack con proyectos prácticos y buenas prácticas de desarrollo.
+En el mientras sigo fortaleciendo mi stack con proyectos prácticos y buenas prácticas de desarrollo.
 
-Actualmente sigo perfeccionando mis habilidades en componentización, consumo de APIs, optimización de rendimiento y buenas prácticas de Git/GitHub.
+Actualmente trabajo en perfeccionar mis habilidades en componentización, consumo de APIs, optimización de rendimiento y buenas prácticas de Git/GitHub.
 Disfruto trabajar en equipo, aprender de otros desarrolladores y participar de proyectos donde pueda aportar valor mientras continúo creciendo profesionalmente.
 
 Mi objetivo es incorporarme a un equipo donde pueda desarrollar soluciones de calidad, asumir nuevos desafíos y consolidarme como desarrollador frontend.
