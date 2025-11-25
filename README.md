@@ -40,9 +40,12 @@ Mi objetivo es incorporarme a un equipo donde pueda desarrollar soluciones de ca
 *(Se actualiza a medida que publique nuevos repositorios)*  
 
 - **Volantia — Plataforma de alquiler de vehículos**  
-  Proyecto fullstack con Next.js, TypeScript, Tailwind, PostgreSQL y TypeORM.  
+  Proyecto fullstack con Next.js, TypeScript, Tailwind, PostgreSQL y TypeORM.
+  Link: https://github.com/JavoFGarcia/front-pf-henry
+    
 - **Aplicación de adopción de mascotas**  
-  Frontend con React, Cloudinary y arquitectura con Context Providers.  
+  Frontend con React, Cloudinary y arquitectura con Context Providers.
+  
 - **Prototipos de interfaces y landing pages**  
   Experimentos personales orientados a UI/UX.
 
