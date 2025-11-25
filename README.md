@@ -1,7 +1,7 @@
-# Javier García 
-**Frontend Developer (Junior)**
+## Javier Fernando García
+
+**Frontend Developer (Junior)**  
 📍 Buenos Aires, Argentina.
-  
 
 ---
 
